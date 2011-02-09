@@ -1,0 +1,2614 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CardList>
+  <Setup>  
+    <FrontClue>
+      <Name>Lemma</Name>
+    </FrontClue>
+    <FrontHint>
+      <Name>GreekHint</Name>
+      <DisplayName>Hint</DisplayName>
+    </FrontHint>
+    <FrontData>
+      <Name>Lexical</Name>
+    </FrontData>
+    <BackData>
+      <Name>Gloss</Name>
+    </BackData>
+    <BackData>
+      <Name>WordType</Name>
+      <DisplayName>Word Type</DisplayName>
+    </BackData>
+    <BackData>
+      <Name>VerbStem</Name>
+      <DisplayName>Verb Stem</DisplayName>
+    </BackData>
+    <AdditionalData>
+      <Name>Frequency</Name>
+    </AdditionalData>
+  </Setup>
+	<Card>
+		<WordType>Proper Noun</WordType>
+		<Lemma>ἀβραάμ</Lemma>
+		<Lexical>Ἀβραάμ, ὁ</Lexical>
+		<Gloss>Abraham</Gloss>
+		<Frequency>73</Frequency>
+		<BBG>4</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>ἀγαθός</Lemma>
+		<Lexical>ἀγαθός, -ή, -όν</Lexical>
+		<Gloss>good</Gloss>
+		<Frequency>131</Frequency>
+		<BBG>9</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>ἀγαπάω</Lemma>
+		<Lexical>ἀγαπάω</Lexical>
+		<Gloss>to love </Gloss>
+		<Frequency>147</Frequency>
+		<BBG>17</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>ἀγάπη</Lemma>
+		<Lexical>ἀγάπη, -ης, ἡ</Lexical>
+		<Gloss>love</Gloss>
+		<Frequency>116</Frequency>
+		<BBG>6</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>ἀγαπητός</Lemma>
+		<Lexical>ἀγαπητός, -ή, -όν</Lexical>
+		<Gloss>beloved</Gloss>
+		<Frequency>61</Frequency>
+		<BBG>9</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>ἄγγελος</Lemma>
+		<Lexical>ἄγγελος, -ου, ὁ</Lexical>
+		<Gloss>an angel</Gloss>
+		<Frequency>175</Frequency>
+		<BBG>4</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>ἅγιος</Lemma>
+		<Lexical>ἅγιος, -α, -ον</Lexical>
+		<Gloss>holy; saints (plural noun)</Gloss>
+		<Frequency>233</Frequency>
+		<BBG>10</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>ἄγω</Lemma>
+		<Lexical>ἄγω</Lexical>
+		<Gloss>to lead</Gloss>
+		<Frequency>69</Frequency>
+		<BBG>24</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>ἀδελφός</Lemma>
+		<Lexical>ἀδελφός, -οῦ, ὁ</Lexical>
+		<Gloss>brother</Gloss>
+		<Frequency>343</Frequency>
+		<BBG>11</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>αἷμα</Lemma>
+		<Lexical>αἷμα, -τος, τό</Lexical>
+		<Gloss>blood</Gloss>
+		<Frequency>97</Frequency>
+		<BBG>24</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>αἴρω</Lemma>
+		<Lexical>αἴρω</Lexical>
+		<Gloss>to take up, take away</Gloss>
+		<Frequency>101</Frequency>
+		<BBG>20</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>αἰτέω</Lemma>
+		<Lexical>αἰτέω</Lexical>
+		<Gloss>to ask</Gloss>
+		<Frequency>70</Frequency>
+		<BBG>25</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>αἰών</Lemma>
+		<Lexical>αἰών, -ῶνος, ὁ</Lexical>
+		<Gloss>an age</Gloss>
+		<Frequency>122</Frequency>
+		<BBG>12</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>αἰώνιος</Lemma>
+		<Lexical>αἰώνιος, -ον</Lexical>
+		<Gloss>eternal</Gloss>
+		<Frequency>73</Frequency>
+		<BBG>9</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>ἀκολουθέω</Lemma>
+		<Lexical>ἀκολουθέω</Lexical>
+		<Gloss>to follow</Gloss>
+		<Frequency>90</Frequency>
+		<BBG>21</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>ἀκούω</Lemma>
+		<Lexical>ἀκούω</Lexical>
+		<Gloss>to hear</Gloss>
+		<Frequency>428</Frequency>
+		<BBG>16</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>ἀλήθεια</Lemma>
+		<Lexical>ἀλήθεια, -ας, ἡ</Lexical>
+		<Gloss>truth</Gloss>
+		<Frequency>109</Frequency>
+		<BBG>14</BBG>
+	</Card>
+	<Card>
+		<WordType>Conjunction</WordType>
+		<Lemma>ἀλλά</Lemma>
+		<Lexical>ἀλλά</Lexical>
+		<Gloss>but, yet, except</Gloss>
+		<Frequency>638</Frequency>
+		<BBG>8</BBG>
+	</Card>
+	<Card>
+		<WordType>Pronoun</WordType>
+		<Lemma>ἀλλήλων</Lemma>
+		<Lexical>ἀλλήλων, -ους, -ους</Lexical>
+		<Gloss>of one another</Gloss>
+		<Frequency>100</Frequency>
+		<BBG>9</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>ἄλλος</Lemma>
+		<Lexical>ἄλλος, -η, -ο</Lexical>
+		<Gloss>other, another</Gloss>
+		<Frequency>155</Frequency>
+		<BBG>6</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>ἁμαρτία</Lemma>
+		<Lexical>ἁμαρτία, -ας, ἡ</Lexical>
+		<Gloss>a sin, sin</Gloss>
+		<Frequency>173</Frequency>
+		<BBG>7</BBG>
+	</Card>
+	<Card>
+		<WordType>Particle</WordType>
+		<Lemma>ἀμήν</Lemma>
+		<Lexical>ἀμήν</Lexical>
+		<Gloss>verily, truly, amen</Gloss>
+		<Frequency>129</Frequency>
+		<BBG>4</BBG>
+	</Card>
+	<Card>
+		<WordType>Particle</WordType>
+		<Lemma>ἄν</Lemma>
+		<Lexical>ἄν</Lexical>
+		<Gloss>untranslatable particle - makes a statement contingent</Gloss>
+		<Frequency>166</Frequency>
+		<BBG>11</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>ἀναβαίνω</Lemma>
+		<Lexical>ἀναβαίνω</Lexical>
+		<Gloss>to go up</Gloss>
+		<Frequency>82</Frequency>
+		<BBG>27</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>ἀνήρ</Lemma>
+		<Lexical>ἀνήρ, ἀνδρός, ὁ</Lexical>
+		<Gloss>a man, husband</Gloss>
+		<Frequency>216</Frequency>
+		<BBG>11</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>ἄνθρωπος</Lemma>
+		<Lexical>ἄνθρωπος, -ου, ὁ</Lexical>
+		<Gloss>a man</Gloss>
+		<Frequency>550</Frequency>
+		<BBG>4</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>ἀνίστημι</Lemma>
+		<Lexical>ἀνίστημι</Lexical>
+		<Gloss>to cause to arise, arise</Gloss>
+		<Frequency>110</Frequency>
+		<BBG>35</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>ἀνοίγω</Lemma>
+		<Lexical>ἀνοίγω</Lexical>
+		<Gloss>to open</Gloss>
+		<Frequency>79</Frequency>
+		<BBG>35</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>ἀπέρχομαι</Lemma>
+		<Lexical>ἀπέρχομαι</Lexical>
+		<Gloss>to depart, go away</Gloss>
+		<Frequency>117</Frequency>
+		<BBG>23</BBG>
+	</Card>
+	<Card>
+		<WordType>Preposition</WordType>
+		<Lemma>ἀπό</Lemma>
+		<Lexical>ἀπό</Lexical>
+		<Gloss>from (gen)</Gloss>
+		<Frequency>646</Frequency>
+		<BBG>8</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>ἀποθνῄσκω</Lemma>
+		<Lexical>ἀποθνῄσκω</Lexical>
+		<Gloss>to die</Gloss>
+		<Frequency>111</Frequency>
+		<BBG>22</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>ἀποκρίνομαι</Lemma>
+		<Lexical>ἀποκρίνομαι</Lexical>
+		<Gloss>to answer</Gloss>
+		<Frequency>231</Frequency>
+		<BBG>18</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>ἀποκτείνω</Lemma>
+		<Lexical>ἀποκτείνω</Lexical>
+		<Gloss>to kill</Gloss>
+		<Frequency>74</Frequency>
+		<BBG>20</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>ἀπόλλυμι</Lemma>
+		<Lexical>ἀπόλλυμι</Lexical>
+		<Gloss>to destroy; to perish (middle)</Gloss>
+		<Frequency>90</Frequency>
+		<BBG>33</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>ἀπολύω</Lemma>
+		<Lexical>ἀπολύω</Lexical>
+		<Gloss>to release</Gloss>
+		<Frequency>66</Frequency>
+		<BBG>33</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>ἀποστέλλω</Lemma>
+		<Lexical>ἀποστέλλω</Lexical>
+		<Gloss>to send</Gloss>
+		<Frequency>132</Frequency>
+		<BBG>20</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>ἀπόστολος</Lemma>
+		<Lexical>ἀπόστολος, -ου, ὁ</Lexical>
+		<Gloss>an Apostle</Gloss>
+		<Frequency>80</Frequency>
+		<BBG>4</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>ἄρτος</Lemma>
+		<Lexical>ἄρτος, -ου, ὁ</Lexical>
+		<Gloss>bread, a loaf</Gloss>
+		<Frequency>97</Frequency>
+		<BBG>22</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>ἀρχή</Lemma>
+		<Lexical>ἀρχή, -ῆς, ἡ</Lexical>
+		<Gloss>a beginning</Gloss>
+		<Frequency>55</Frequency>
+		<BBG>7</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>ἀρχιερεύς</Lemma>
+		<Lexical>ἀρχιερεύς, -έως, ὁ</Lexical>
+		<Gloss>chief priest, high priest</Gloss>
+		<Frequency>122</Frequency>
+		<BBG>27</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>ἄρχω</Lemma>
+		<Lexical>ἄρχω</Lexical>
+		<Gloss>to rule </Gloss>
+		<Frequency>86</Frequency>
+		<BBG>23</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>ἀσπάζομαι</Lemma>
+		<Lexical>ἀσπάζομαι</Lexical>
+		<Gloss>to greet, salute</Gloss>
+		<Frequency>59</Frequency>
+		<BBG>28</BBG>
+	</Card>
+	<Card>
+		<WordType>Pronoun</WordType>
+		<Lemma>αὐτός</Lemma>
+		<Lexical>αὐτός, -ή, -ό</Lexical>
+		<Gloss>himself, herself, itself, same; he, she, it</Gloss>
+		<Frequency>5645</Frequency>
+		<BBG>6</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>ἀφίημι</Lemma>
+		<Lexical>ἀφίημι</Lexical>
+		<Gloss>to let go, permit, forgive</Gloss>
+		<Frequency>143</Frequency>
+		<BBG>35</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>βάλλω</Lemma>
+		<Lexical>βάλλω</Lexical>
+		<Gloss>to throw, put, cast</Gloss>
+		<Frequency>122</Frequency>
+		<BBG>22</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>βαπτίζω</Lemma>
+		<Lexical>βαπτίζω</Lexical>
+		<Gloss>to baptize</Gloss>
+		<Frequency>77</Frequency>
+		<BBG>20</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>βασιλεία</Lemma>
+		<Lexical>βασιλεία, -ας, ἡ</Lexical>
+		<Gloss>a kingdom</Gloss>
+		<Frequency>162</Frequency>
+		<BBG>6</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>βασιλεύς</Lemma>
+		<Lexical>βασιλεύς, -έως, ὁ</Lexical>
+		<Gloss>a king</Gloss>
+		<Frequency>115</Frequency>
+		<BBG>19</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>βλέπω</Lemma>
+		<Lexical>βλέπω</Lexical>
+		<Gloss>to see</Gloss>
+		<Frequency>136</Frequency>
+		<BBG>16</BBG>
+	</Card>
+	<Card>
+		<WordType>Proper Noun</WordType>
+		<Lemma>γαλιλαία</Lemma>
+		<Lexical>Γαλιλαία, -ας, ἡ</Lexical>
+		<Gloss>Galilee</Gloss>
+		<Frequency>63</Frequency>
+		<BBG>4</BBG>
+	</Card>
+	<Card>
+		<WordType>Conjunction</WordType>
+		<Lemma>γάρ</Lemma>
+		<Lexical>γάρ</Lexical>
+		<Gloss>for</Gloss>
+		<Frequency>1041</Frequency>
+		<BBG>7</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>γεννάω</Lemma>
+		<Lexical>γεννάω</Lexical>
+		<Gloss>to beget</Gloss>
+		<Frequency>97</Frequency>
+		<BBG>19</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>γῆ</Lemma>
+		<Lexical>γῆ, γῆς, ἡ</Lexical>
+		<Gloss>the earth, land</Gloss>
+		<Frequency>254</Frequency>
+		<BBG>22</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>γίνομαι</Lemma>
+		<Lexical>γίνομαι</Lexical>
+		<Gloss>to become, be</Gloss>
+		<Frequency>669</Frequency>
+		<BBG>22</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>γινώσκω</Lemma>
+		<Lexical>γινώσκω</Lexical>
+		<Gloss>to come to know, learn, know, realize</Gloss>
+		<Frequency>242</Frequency>
+		<BBG>20</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>γλῶσσα</Lemma>
+		<Lexical>γλῶσσα, -ης, ἡ</Lexical>
+		<Gloss>a tongue, language</Gloss>
+		<Frequency>50</Frequency>
+		<BBG>20</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>γραμματεύς</Lemma>
+		<Lexical>γραμματεύς, -έως, ὁ</Lexical>
+		<Gloss>a scribe</Gloss>
+		<Frequency>63</Frequency>
+		<BBG>28</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>γραφή</Lemma>
+		<Lexical>γραφή, -ῆς, ἡ</Lexical>
+		<Gloss>a writing, Scripture</Gloss>
+		<Frequency>50</Frequency>
+		<BBG>4</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>γράφω</Lemma>
+		<Lexical>γράφω</Lexical>
+		<Gloss>to write</Gloss>
+		<Frequency>191</Frequency>
+		<BBG>23</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>γυνή</Lemma>
+		<Lexical>γυνή, -αικός, ἡ</Lexical>
+		<Gloss>a woman, wife</Gloss>
+		<Frequency>215</Frequency>
+		<BBG>13</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>δαιμόνιον</Lemma>
+		<Lexical>δαιμόνιον, -ου, τό</Lexical>
+		<Gloss>a demon</Gloss>
+		<Frequency>63</Frequency>
+		<BBG>17</BBG>
+	</Card>
+	<Card>
+		<WordType>Proper Noun</WordType>
+		<Lemma>δαυίδ</Lemma>
+		<Lexical>Δαυίδ, ὁ</Lexical>
+		<Gloss>David</Gloss>
+		<Frequency>59</Frequency>
+		<BBG>4</BBG>
+	</Card>
+	<Card>
+		<WordType>Conjunction</WordType>
+		<Lemma>δέ</Lemma>
+		<Lexical>δέ</Lexical>
+		<Gloss>but, and</Gloss>
+		<Frequency>2792</Frequency>
+		<BBG>6</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>δεῖ</Lemma>
+		<Lexical>δεῖ</Lexical>
+		<Gloss>it is necessary</Gloss>
+		<Frequency>101</Frequency>
+		<BBG>18</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>δεξιός</Lemma>
+		<Lexical>δεξιός, -ά, -όν</Lexical>
+		<Gloss>right</Gloss>
+		<Frequency>54</Frequency>
+		<BBG>27</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>δεύτερος</Lemma>
+		<Lexical>δεύτερος, -α, -ον</Lexical>
+		<Gloss>second</Gloss>
+		<Frequency>51</Frequency>
+		<BBG>0</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>δέχομαι</Lemma>
+		<Lexical>δέχομαι</Lexical>
+		<Gloss>to receive</Gloss>
+		<Frequency>56</Frequency>
+		<BBG>29</BBG>
+	</Card>
+	<Card>
+		<WordType>Preposition</WordType>
+		<Lemma>διά</Lemma>
+		<Lexical>διά</Lexical>
+		<Gloss>through (gen); on account of (acc)</Gloss>
+		<Frequency>667</Frequency>
+		<BBG>8</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>διδάσκαλος</Lemma>
+		<Lexical>διδάσκαλος, -ου, ὁ</Lexical>
+		<Gloss>a teacher</Gloss>
+		<Frequency>59</Frequency>
+		<BBG>12</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>διδάσκω</Lemma>
+		<Lexical>διδάσκω</Lexical>
+		<Gloss>to teach</Gloss>
+		<Frequency>97</Frequency>
+		<BBG>21</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>δίδωμι</Lemma>
+		<Lexical>δίδωμι</Lexical>
+		<Gloss>to give</Gloss>
+		<Frequency>417</Frequency>
+		<BBG>34</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>δίκαιος</Lemma>
+		<Lexical>δίκαιος, -α, -ον</Lexical>
+		<Gloss>right, just, righteous</Gloss>
+		<Frequency>79</Frequency>
+		<BBG>32</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>δικαιοσύνη</Lemma>
+		<Lexical>δικαιοσύνη, -ης, ἡ</Lexical>
+		<Gloss>righteousness</Gloss>
+		<Frequency>92</Frequency>
+		<BBG>13</BBG>
+	</Card>
+	<Card>
+		<WordType>Conjunction</WordType>
+		<Lemma>διό</Lemma>
+		<Lexical>                      </Lexical>
+		<Gloss>therefore, for this reason</Gloss>
+		<Frequency>53</Frequency>
+		<BBG>23</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>δοκέω</Lemma>
+		<Lexical>δοκέω</Lexical>
+		<Gloss>to think; seem</Gloss>
+		<Frequency>62</Frequency>
+		<BBG>29</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>δόξα</Lemma>
+		<Lexical>δόξα, -ης, ἡ</Lexical>
+		<Gloss>glory</Gloss>
+		<Frequency>166</Frequency>
+		<BBG>4</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>δοξάζω</Lemma>
+		<Lexical>δοξάζω</Lexical>
+		<Gloss>to glorify</Gloss>
+		<Frequency>61</Frequency>
+		<BBG>23</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>δοῦλος</Lemma>
+		<Lexical>δοῦλος, -η, -ον</Lexical>
+		<Gloss>a slave</Gloss>
+		<Frequency>126</Frequency>
+		<BBG>9</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>δύναμαι</Lemma>
+		<Lexical>δύναμαι</Lexical>
+		<Gloss>to be powerful, able</Gloss>
+		<Frequency>210</Frequency>
+		<BBG>18</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>δύναμις</Lemma>
+		<Lexical>δύναμις, -εως, ἡ</Lexical>
+		<Gloss>power</Gloss>
+		<Frequency>119</Frequency>
+		<BBG>23</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>δύο</Lemma>
+		<Lexical>δύο</Lexical>
+		<Gloss>two</Gloss>
+		<Frequency>135</Frequency>
+		<BBG>27</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>δώδεκα</Lemma>
+		<Lexical>δώδεκα</Lexical>
+		<Gloss>twelve</Gloss>
+		<Frequency>75</Frequency>
+		<BBG>13</BBG>
+	</Card>
+	<Card>
+		<WordType>Conjunction</WordType>
+		<Lemma>ἐάν</Lemma>
+		<Lexical>ἐάν</Lexical>
+		<Gloss>if</Gloss>
+		<Frequency>333</Frequency>
+		<BBG>9</BBG>
+	</Card>
+	<Card>
+		<WordType>Pronoun</WordType>
+		<Lemma>ἑαυτοῦ</Lemma>
+		<Lexical>ἑαυτοῦ, -ῆς, -οῦ</Lexical>
+		<Gloss>of himself</Gloss>
+		<Frequency>319</Frequency>
+		<BBG>13</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>ἐγείρω</Lemma>
+		<Lexical>ἐγείρω</Lexical>
+		<Gloss>to raise up</Gloss>
+		<Frequency>144</Frequency>
+		<BBG>20</BBG>
+	</Card>
+	<Card>
+		<WordType>Pronoun</WordType>
+		<Lemma>ἐγώ</Lemma>
+		<Lexical>ἐγώ</Lexical>
+		<Gloss>I</Gloss>
+		<Frequency>2584</Frequency>
+		<BBG>4</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>ἔθνος</Lemma>
+		<Lexical>ἔθνος, -ους, τό</Lexical>
+		<Gloss>a nation; Gentiles (plural)</Gloss>
+		<Frequency>162</Frequency>
+		<BBG>34</BBG>
+	</Card>
+	<Card>
+		<WordType>Conjunction</WordType>
+		<Lemma>εἰ</Lemma>
+		<Lexical>εἰ</Lexical>
+		<Gloss>if</Gloss>
+		<Frequency>502</Frequency>
+		<BBG>10</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>εἰμί</Lemma>
+		<Lexical>εἰμί</Lexical>
+		<Gloss>I am</Gloss>
+		<Frequency>2462</Frequency>
+		<BBG>8</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>εἰρήνη</Lemma>
+		<Lexical>εἰρήνη, -ης, ἡ</Lexical>
+		<Gloss>peace</Gloss>
+		<Frequency>92</Frequency>
+		<BBG>14</BBG>
+	</Card>
+	<Card>
+		<WordType>Preposition</WordType>
+		<Lemma>εἰς</Lemma>
+		<Lexical>εἰς</Lexical>
+		<Gloss>into (acc)</Gloss>
+		<Frequency>1767</Frequency>
+		<BBG>10</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>εἷς</Lemma>
+		<Lexical>εἷς, μία, ἕν</Lexical>
+		<Gloss>one</Gloss>
+		<Frequency>353</Frequency>
+		<BBG>7</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>εἰσέρχομαι</Lemma>
+		<Lexical>εἰσέρχομαι</Lexical>
+		<Gloss>to go or come in or into, enter</Gloss>
+		<Frequency>194</Frequency>
+		<BBG>22</BBG>
+	</Card>
+	<Card>
+		<WordType>Conjunction</WordType>
+		<Lemma>εἴτε</Lemma>
+		<Lexical>εἴτε</Lexical>
+		<Gloss>if, whether</Gloss>
+		<Frequency>65</Frequency>
+		<BBG>33</BBG>
+	</Card>
+	<Card>
+		<WordType>Preposition</WordType>
+		<Lemma>ἐκ</Lemma>
+		<Lexical>ἐκ, ἐξ</Lexical>
+		<Gloss>out of, from (gen)</Gloss>
+		<Frequency>914</Frequency>
+		<BBG>8</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>ἕκαστος</Lemma>
+		<Lexical>ἕκαστος, -η, -ον</Lexical>
+		<Gloss>each</Gloss>
+		<Frequency>82</Frequency>
+		<BBG>24</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>ἐκβάλλω</Lemma>
+		<Lexical>ἐκβάλλω</Lexical>
+		<Gloss>to cast out</Gloss>
+		<Frequency>81</Frequency>
+		<BBG>20</BBG>
+	</Card>
+	<Card>
+		<WordType>Adverb</WordType>
+		<Lemma>ἐκεῖ</Lemma>
+		<Lexical>ἐκεῖ</Lexical>
+		<Gloss>there</Gloss>
+		<Frequency>95</Frequency>
+		<BBG>20</BBG>
+	</Card>
+	<Card>
+		<WordType>Pronoun</WordType>
+		<Lemma>ἐκεῖνος</Lemma>
+		<Lexical>ἐκεῖνος, -η, -ο</Lexical>
+		<Gloss>that</Gloss>
+		<Frequency>243</Frequency>
+		<BBG>13</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>ἐκκλησία</Lemma>
+		<Lexical>ἐκκλησία, -ας, ἡ</Lexical>
+		<Gloss>assembly, congregation, church</Gloss>
+		<Frequency>114</Frequency>
+		<BBG>11</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>ἐλπίς</Lemma>
+		<Lexical>ἐλπίς, -ίδος, ἡ</Lexical>
+		<Gloss>hope</Gloss>
+		<Frequency>53</Frequency>
+		<BBG>11</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>ἐμός</Lemma>
+		<Lexical>ἐμός, -ή, -όν</Lexical>
+		<Gloss>my, mine</Gloss>
+		<Frequency>74</Frequency>
+		<BBG>9</BBG>
+	</Card>
+	<Card>
+		<WordType>Preposition</WordType>
+		<Lemma>ἐν</Lemma>
+		<Lexical>ἐν</Lexical>
+		<Gloss>in (dat)</Gloss>
+		<Frequency>2752</Frequency>
+		<BBG>6</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>ἐντολή</Lemma>
+		<Lexical>ἐντολή, -ῆς, ἡ</Lexical>
+		<Gloss>a commandment</Gloss>
+		<Frequency>67</Frequency>
+		<BBG>9</BBG>
+	</Card>
+	<Card>
+		<WordType>Preposition</WordType>
+		<Lemma>ἐνώπιον</Lemma>
+		<Lexical>ἐνώπιον</Lexical>
+		<Gloss>before (gen)</Gloss>
+		<Frequency>94</Frequency>
+		<BBG>14</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>ἐξέρχομαι</Lemma>
+		<Lexical>ἐξέρχομαι</Lexical>
+		<Gloss>to go out, come out</Gloss>
+		<Frequency>218</Frequency>
+		<BBG>22</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>ἐξουσία</Lemma>
+		<Lexical>ἐξουσία, -ας, ἡ</Lexical>
+		<Gloss>authority</Gloss>
+		<Frequency>102</Frequency>
+		<BBG>7</BBG>
+	</Card>
+	<Card>
+		<WordType>Adverb</WordType>
+		<Lemma>ἔξω</Lemma>
+		<Lexical>ἔξω</Lexical>
+		<Gloss>without; outside (gen)</Gloss>
+		<Frequency>63</Frequency>
+		<BBG>11</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>ἐπαγγελία</Lemma>
+		<Lexical>ἐπαγγελία, -ας, ἡ</Lexical>
+		<Gloss>a promise</Gloss>
+		<Frequency>52</Frequency>
+		<BBG>14</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>ἐπερωτάω</Lemma>
+		<Lexical>ἐπερωτάω</Lexical>
+		<Gloss>to ask, question, demand of</Gloss>
+		<Frequency>56</Frequency>
+		<BBG>21</BBG>
+	</Card>
+	<Card>
+		<WordType>Preposition</WordType>
+		<Lemma>ἐπί</Lemma>
+		<Lexical>ἐπί</Lexical>
+		<Gloss>over, on, at the time of (gen); on the basis of, at (dat); on, to, against (acc)</Gloss>
+		<Frequency>890</Frequency>
+		<BBG>11</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>ἑπτά</Lemma>
+		<Lexical>ἑπτά</Lexical>
+		<Gloss>seven</Gloss>
+		<Frequency>88</Frequency>
+		<BBG>14</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>ἔργον</Lemma>
+		<Lexical>ἔργον, -ου, τό</Lexical>
+		<Gloss>work, deed</Gloss>
+		<Frequency>169</Frequency>
+		<BBG>6</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>ἔρχομαι</Lemma>
+		<Lexical>ἔρχομαι</Lexical>
+		<Gloss>to come, go</Gloss>
+		<Frequency>634</Frequency>
+		<BBG>18</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>ἐρωτάω</Lemma>
+		<Lexical>ἐρωτάω</Lexical>
+		<Gloss>to ask, request, entreat</Gloss>
+		<Frequency>63</Frequency>
+		<BBG>21</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>ἐσθίω</Lemma>
+		<Lexical>ἐσθίω</Lexical>
+		<Gloss>to eat</Gloss>
+		<Frequency>157</Frequency>
+		<BBG>29</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>ἔσχατος</Lemma>
+		<Lexical>ἔσχατος, -η, -ον</Lexical>
+		<Gloss>last</Gloss>
+		<Frequency>54</Frequency>
+		<BBG>4</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>ἕτερος</Lemma>
+		<Lexical>ἕτερος, -α, -ον</Lexical>
+		<Gloss>other, another, different</Gloss>
+		<Frequency>98</Frequency>
+		<BBG>27</BBG>
+	</Card>
+	<Card>
+		<WordType>Adverb</WordType>
+		<Lemma>ἔτι</Lemma>
+		<Lexical>ἔτι</Lexical>
+		<Gloss>still, yet, even</Gloss>
+		<Frequency>93</Frequency>
+		<BBG>22</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>εὐαγγελίζω</Lemma>
+		<Lexical>εὐαγγελίζω</Lexical>
+		<Gloss>to bring good news, preach good tidings</Gloss>
+		<Frequency>54</Frequency>
+		<BBG>27</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>εὐαγγέλιον</Lemma>
+		<Lexical>εὐαγγέλιον, -ου, -ν</Lexical>
+		<Gloss>good news, glad tidings, the Gospel</Gloss>
+		<Frequency>76</Frequency>
+		<BBG>7</BBG>
+	</Card>
+	<Card>
+		<WordType>Adverb</WordType>
+		<Lemma>εὐθύς</Lemma>
+		<Lexical>εὐθύς, -εῖα, -ύ</Lexical>
+		<Gloss>straightway, immediately</Gloss>
+		<Frequency>59</Frequency>
+		<BBG>12</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>εὑρίσκω</Lemma>
+		<Lexical>εὑρίσκω</Lexical>
+		<Gloss>to find</Gloss>
+		<Frequency>176</Frequency>
+		<BBG>22</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>ἔχω</Lemma>
+		<Lexical>ἔχω</Lexical>
+		<Gloss>to have, hold</Gloss>
+		<Frequency>708</Frequency>
+		<BBG>16</BBG>
+	</Card>
+	<Card>
+		<WordType>Preposition</WordType>
+		<Lemma>ἕως</Lemma>
+		<Lexical>ἕως</Lexical>
+		<Gloss>until; as far as (gen)</Gloss>
+		<Frequency>160</Frequency>
+		<BBG>12</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>ζάω</Lemma>
+		<Lexical>ζάω</Lexical>
+		<Gloss>to live</Gloss>
+		<Frequency>140</Frequency>
+		<BBG>19</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>ζητέω</Lemma>
+		<Lexical>ζητέω</Lexical>
+		<Gloss>to seek</Gloss>
+		<Frequency>117</Frequency>
+		<BBG>17</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>ζωή</Lemma>
+		<Lexical>ζωή, -ῆς, ἡ</Lexical>
+		<Gloss>life</Gloss>
+		<Frequency>135</Frequency>
+		<BBG>4</BBG>
+	</Card>
+	<Card>
+		<WordType>Conjunction</WordType>
+		<Lemma>ἤ</Lemma>
+		<Lexical>ἤ</Lexical>
+		<Gloss>or</Gloss>
+		<Frequency>343</Frequency>
+		<BBG>13</BBG>
+	</Card>
+	<Card>
+		<WordType>Adverb</WordType>
+		<Lemma>ἤδη</Lemma>
+		<Lexical>ἤδη</Lexical>
+		<Gloss>now, already</Gloss>
+		<Frequency>61</Frequency>
+		<BBG>10</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>ἡμέρα</Lemma>
+		<Lexical>ἡμέρα, -ας, ἡ</Lexical>
+		<Gloss>a day</Gloss>
+		<Frequency>389</Frequency>
+		<BBG>8</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>θάλασσα</Lemma>
+		<Lexical>θάλασσα, -ης, ἡ</Lexical>
+		<Gloss>the sea</Gloss>
+		<Frequency>91</Frequency>
+		<BBG>8</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>θάνατος</Lemma>
+		<Lexical>θάνατος, -ου, ὁ</Lexical>
+		<Gloss>death</Gloss>
+		<Frequency>120</Frequency>
+		<BBG>8</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>θέλημα</Lemma>
+		<Lexical>θέλημα, -τος, τό</Lexical>
+		<Gloss>will</Gloss>
+		<Frequency>62</Frequency>
+		<BBG>11</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>θέλω</Lemma>
+		<Lexical>θέλω</Lexical>
+		<Gloss>to will, wish, desire</Gloss>
+		<Frequency>208</Frequency>
+		<BBG>21</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>θεός</Lemma>
+		<Lexical>θεός, -οῦ, ὁ</Lexical>
+		<Gloss>a god, God</Gloss>
+		<Frequency>1317</Frequency>
+		<BBG>4</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>θεωρέω</Lemma>
+		<Lexical>θεωρέω</Lexical>
+		<Gloss>to look at, behold</Gloss>
+		<Frequency>64</Frequency>
+		<BBG>27</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>θρόνος</Lemma>
+		<Lexical>θρόνος, -ου, ὁ</Lexical>
+		<Gloss>a throne</Gloss>
+		<Frequency>62</Frequency>
+		<BBG>14</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>ἴδιος</Lemma>
+		<Lexical>ἴδιος, -α, -ον</Lexical>
+		<Gloss>one's own</Gloss>
+		<Frequency>114</Frequency>
+		<BBG>35</BBG>
+	</Card>
+	<Card>
+		<WordType>Particle</WordType>
+		<Lemma>ἰδού</Lemma>
+		<Lexical>ἰδού</Lexical>
+		<Gloss>See! Behold! Look! Lo!</Gloss>
+		<Frequency>200</Frequency>
+		<BBG>11</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>ἱερόν</Lemma>
+		<Lexical>ἱερόν, -οῦ, τό</Lexical>
+		<Gloss>a temple</Gloss>
+		<Frequency>72</Frequency>
+		<BBG>28</BBG>
+	</Card>
+	<Card>
+		<WordType>Proper Noun</WordType>
+		<Lemma>ἱεροσόλυμα</Lemma>
+		<Lexical>Ἱεροσόλυμα, τό</Lexical>
+		<Gloss>Jerusalem</Gloss>
+		<Frequency>62</Frequency>
+		<BBG>14</BBG>
+	</Card>
+	<Card>
+		<WordType>Proper Noun</WordType>
+		<Lemma>ἰερουσαλήμ</Lemma>
+		<Lexical>Ἱεροσόλυμα, τό</Lexical>
+		<Gloss>Jerousalem</Gloss>
+		<Frequency>79</Frequency>
+		<BBG>27</BBG>
+	</Card>
+	<Card>
+		<WordType>Proper Noun</WordType>
+		<Lemma>ἰησοῦς</Lemma>
+		<Lexical>Ἰησοῦς</Lexical>
+		<Gloss>Jesus, Joshua</Gloss>
+		<Frequency>917</Frequency>
+		<BBG>7</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>ἱμάτιον</Lemma>
+		<Lexical>ἱμάτιον, -ου, τό</Lexical>
+		<Gloss>a garment</Gloss>
+		<Frequency>60</Frequency>
+		<BBG>24</BBG>
+	</Card>
+	<Card>
+		<WordType>Conjunction</WordType>
+		<Lemma>ἵνα</Lemma>
+		<Lexical>ἵνα</Lexical>
+		<Gloss>in order that, that</Gloss>
+		<Frequency>663</Frequency>
+		<BBG>8</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>ἰουδαῖος</Lemma>
+		<Lexical>Ἰουδαῖος, -α, -ον</Lexical>
+		<Gloss>Jewish, a Jew, Judea</Gloss>
+		<Frequency>195</Frequency>
+		<BBG>19</BBG>
+	</Card>
+	<Card>
+		<WordType>Proper Noun</WordType>
+		<Lemma>ἰσραήλ</Lemma>
+		<Lexical>Ἰσραήλ, ὁ</Lexical>
+		<Gloss>Israel</Gloss>
+		<Frequency>68</Frequency>
+		<BBG>19</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>ἵστημι</Lemma>
+		<Lexical>ἵστημι</Lexical>
+		<Gloss>to cause to stand, stand</Gloss>
+		<Frequency>155</Frequency>
+		<BBG>35</BBG>
+	</Card>
+	<Card>
+		<WordType>Proper Noun</WordType>
+		<Lemma>ἰωάννης</Lemma>
+		<Lexical>Ἰωάννης, -ου, ὁ</Lexical>
+		<Gloss>John</Gloss>
+		<Frequency>135</Frequency>
+		<BBG>8</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>κάθημαι</Lemma>
+		<Lexical>κάθημαι</Lexical>
+		<Gloss>to sit</Gloss>
+		<Frequency>91</Frequency>
+		<BBG>27</BBG>
+	</Card>
+	<Card>
+		<WordType>Conjunction</WordType>
+		<Lemma>καθώς</Lemma>
+		<Lexical>καθώς</Lexical>
+		<Gloss>as, just as, even as</Gloss>
+		<Frequency>182</Frequency>
+		<BBG>9</BBG>
+	</Card>
+	<Card>
+		<WordType>Conjunction</WordType>
+		<Lemma>καί</Lemma>
+		<Lexical>καί</Lexical>
+		<Gloss>and, even, also</Gloss>
+		<Frequency>9158</Frequency>
+		<BBG>4</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>καιρός</Lemma>
+		<Lexical>καιρός, -οῦ, ὁ</Lexical>
+		<Gloss>time, an appointed time</Gloss>
+		<Frequency>85</Frequency>
+		<BBG>6</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>κακός</Lemma>
+		<Lexical>κακός, -ή, -όν</Lexical>
+		<Gloss>bad, evil</Gloss>
+		<Frequency>63</Frequency>
+		<BBG>9</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>καλέω</Lemma>
+		<Lexical>καλέω</Lexical>
+		<Gloss>to call, name invite</Gloss>
+		<Frequency>148</Frequency>
+		<BBG>17</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>καλός</Lemma>
+		<Lexical>καλός, -ή, -όν</Lexical>
+		<Gloss>good</Gloss>
+		<Frequency>102</Frequency>
+		<BBG>11</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>καρδία</Lemma>
+		<Lexical>καρδία, -ας, ἡ</Lexical>
+		<Gloss>the heart</Gloss>
+		<Frequency>156</Frequency>
+		<BBG>4</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>καρπός</Lemma>
+		<Lexical>καρπός, -οῦ, ὁ</Lexical>
+		<Gloss>fruit</Gloss>
+		<Frequency>66</Frequency>
+		<BBG>19</BBG>
+	</Card>
+	<Card>
+		<WordType>Preposition</WordType>
+		<Lemma>κατά</Lemma>
+		<Lexical>κατά</Lexical>
+		<Gloss>down from, against (gen); according to, during, throughout (acc)</Gloss>
+		<Frequency>473</Frequency>
+		<BBG>14</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>καταβαίνω</Lemma>
+		<Lexical>καταβαίνω</Lexical>
+		<Gloss>to go down</Gloss>
+		<Frequency>81</Frequency>
+		<BBG>27</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>κεφαλή</Lemma>
+		<Lexical>κεφαλή, -ῆς, ἡ</Lexical>
+		<Gloss>head</Gloss>
+		<Frequency>75</Frequency>
+		<BBG>14</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>κηρύσσω</Lemma>
+		<Lexical>κηρύσσω</Lexical>
+		<Gloss>to proclaim, preach</Gloss>
+		<Frequency>61</Frequency>
+		<BBG>23</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>κόσμος</Lemma>
+		<Lexical>κόσμος, -ου, ὁ</Lexical>
+		<Gloss>the world</Gloss>
+		<Frequency>186</Frequency>
+		<BBG>4</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>κράζω</Lemma>
+		<Lexical>κράζω</Lexical>
+		<Gloss>to cry out</Gloss>
+		<Frequency>55</Frequency>
+		<BBG>28</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>κρίνω</Lemma>
+		<Lexical>κρίνω</Lexical>
+		<Gloss>to judge, decide</Gloss>
+		<Frequency>118</Frequency>
+		<BBG>20</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>κύριος</Lemma>
+		<Lexical>κύριος, -ου, ὁ</Lexical>
+		<Gloss>a lord, the Lord</Gloss>
+		<Frequency>717</Frequency>
+		<BBG>7</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>λαλέω</Lemma>
+		<Lexical>λαλέω</Lexical>
+		<Gloss>to speak</Gloss>
+		<Frequency>296</Frequency>
+		<BBG>17</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>λαμβάνω</Lemma>
+		<Lexical>λαμβάνω</Lexical>
+		<Gloss>to take, receive</Gloss>
+		<Frequency>258</Frequency>
+		<BBG>22</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>λαός</Lemma>
+		<Lexical>λαός, -οῦ, ὁ</Lexical>
+		<Gloss>a people</Gloss>
+		<Frequency>142</Frequency>
+		<BBG>20</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>λέγω</Lemma>
+		<Lexical>λέγω</Lexical>
+		<Gloss>to say, speak</Gloss>
+		<Frequency>2357</Frequency>
+		<BBG>8</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>λίθος</Lemma>
+		<Lexical>λίθος, -ου, ὁ</Lexical>
+		<Gloss>a stone</Gloss>
+		<Frequency>59</Frequency>
+		<BBG>31</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>λόγος</Lemma>
+		<Lexical>λόγος, -ου, ὁ</Lexical>
+		<Gloss>a word, the Word</Gloss>
+		<Frequency>330</Frequency>
+		<BBG>4</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>λοιπός</Lemma>
+		<Lexical>λοιπός, -ή, -όν</Lexical>
+		<Gloss>remaining, the rest (as a noun); for the rest, henceforth (as an adverb)</Gloss>
+		<Frequency>67</Frequency>
+		<BBG>34</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>μαθητής</Lemma>
+		<Lexical>μαθητής, -οῦ, ὁ</Lexical>
+		<Gloss>a disciple</Gloss>
+		<Frequency>261</Frequency>
+		<BBG>12</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>μακάριος</Lemma>
+		<Lexical>μακάριος, -α, -ον</Lexical>
+		<Gloss>blessed, happy</Gloss>
+		<Frequency>50</Frequency>
+		<BBG>13</BBG>
+	</Card>
+	<Card>
+		<WordType>Adverb</WordType>
+		<Lemma>μᾶλλον</Lemma>
+		<Lexical>μᾶλλον</Lexical>
+		<Gloss>more, rather</Gloss>
+		<Frequency>81</Frequency>
+		<BBG>25</BBG>
+	</Card>
+	<Card>
+		<WordType>Proper Noun</WordType>
+		<Lemma>μαρία</Lemma>
+		<Lexical>Μαρία, -ας</Lexical>
+		<Gloss>Mary</Gloss>
+		<Frequency>54</Frequency>
+		<BBG>0</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>μαρτυρέω</Lemma>
+		<Lexical>μαρτυρέω</Lexical>
+		<Gloss>to bear witness, testify</Gloss>
+		<Frequency>78</Frequency>
+		<BBG>25</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>μέγας</Lemma>
+		<Lexical>μέγας, μεγάλη, μέγα</Lexical>
+		<Gloss>large, great</Gloss>
+		<Frequency>245</Frequency>
+		<BBG>13</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>μέλλω</Lemma>
+		<Lexical>μέλλω</Lexical>
+		<Gloss>to be about to</Gloss>
+		<Frequency>109</Frequency>
+		<BBG>32</BBG>
+	</Card>
+	<Card>
+		<WordType>Particle</WordType>
+		<Lemma>μέν</Lemma>
+		<Lexical>μέν</Lexical>
+		<Gloss>on the one hand, indeed (postpositive particle often untranslated)</Gloss>
+		<Frequency>179</Frequency>
+		<BBG>12</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>μένω</Lemma>
+		<Lexical>μένω</Lexical>
+		<Gloss>to remain, abide</Gloss>
+		<Frequency>120</Frequency>
+		<BBG>20</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>μέσος</Lemma>
+		<Lexical>μέσος, -η, -ον</Lexical>
+		<Gloss>middle, in the midst</Gloss>
+		<Frequency>62</Frequency>
+		<BBG>35</BBG>
+	</Card>
+	<Card>
+		<WordType>Preposition</WordType>
+		<Lemma>μετά</Lemma>
+		<Lexical>μετά</Lexical>
+		<Gloss>with (gen); after (acc)</Gloss>
+		<Frequency>469</Frequency>
+		<BBG>8</BBG>
+	</Card>
+	<Card>
+		<WordType>Particle</WordType>
+		<Lemma>μή</Lemma>
+		<Lexical>μή</Lexical>
+		<Gloss>not, lest</Gloss>
+		<Frequency>1042</Frequency>
+		<BBG>7</BBG>
+	</Card>
+	<Card>
+		<WordType>Particle</WordType>
+		<Lemma>μηδέ</Lemma>
+		<Lexical>μηδέ</Lexical>
+		<Gloss>but not, nor, not even</Gloss>
+		<Frequency>56</Frequency>
+		<BBG>30</BBG>
+	</Card>
+	<Card>
+		<WordType>Pronoun</WordType>
+		<Lemma>μηδείς</Lemma>
+		<Lexical>μηδείς, μηδεμία, μηδέν</Lexical>
+		<Gloss>no one</Gloss>
+		<Frequency>91</Frequency>
+		<BBG>12</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>μήτηρ</Lemma>
+		<Lexical>μήτηρ, -τρος, ἡ</Lexical>
+		<Gloss>a mother</Gloss>
+		<Frequency>83</Frequency>
+		<BBG>11</BBG>
+	</Card>
+	<Card>
+		<WordType>Adverb</WordType>
+		<Lemma>μόνος</Lemma>
+		<Lexical>μόνος, -η, -ον</Lexical>
+		<Gloss>alone, only</Gloss>
+		<Frequency>117</Frequency>
+		<BBG>12</BBG>
+	</Card>
+	<Card>
+		<WordType>Proper Noun</WordType>
+		<Lemma>μωϋσῆς</Lemma>
+		<Lexical>Μωϋσῆς, -έως, ὁ</Lexical>
+		<Gloss>Moses</Gloss>
+		<Frequency>80</Frequency>
+		<BBG>34</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>νεκρός</Lemma>
+		<Lexical>νεκρός, -ά, -όν</Lexical>
+		<Gloss>dead</Gloss>
+		<Frequency>130</Frequency>
+		<BBG>9</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>νόμος</Lemma>
+		<Lexical>νόμος, -ου, ὁ</Lexical>
+		<Gloss>a law, the Law</Gloss>
+		<Frequency>194</Frequency>
+		<BBG>16</BBG>
+	</Card>
+	<Card>
+		<WordType>Adverb</WordType>
+		<Lemma>νῦν</Lemma>
+		<Lexical>νῦν</Lexical>
+		<Gloss>now</Gloss>
+		<Frequency>147</Frequency>
+		<BBG>6</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>νύξ</Lemma>
+		<Lexical>νύξ, -νυκτός, ἡ</Lexical>
+		<Gloss>night</Gloss>
+		<Frequency>61</Frequency>
+		<BBG>18</BBG>
+	</Card>
+	<Card>
+		<WordType>Article</WordType>
+		<Lemma>ὁ</Lemma>
+		<Lexical>ὁ, ἡ, τό</Lexical>
+		<Gloss>the </Gloss>
+		<Frequency>19889</Frequency>
+		<BBG>6</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>ὁδός</Lemma>
+		<Lexical>ὁδός, -οῦ, ἡ</Lexical>
+		<Gloss>a way, road, journey</Gloss>
+		<Frequency>101</Frequency>
+		<BBG>14</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>οἶδα</Lemma>
+		<Lexical>οἶδα</Lexical>
+		<Gloss>to know</Gloss>
+		<Frequency>324</Frequency>
+		<BBG>17</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>οἰκία</Lemma>
+		<Lexical>οἰκία, -ας, ἡ</Lexical>
+		<Gloss>a house</Gloss>
+		<Frequency>93</Frequency>
+		<BBG>8</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>οἶκος</Lemma>
+		<Lexical>οἶκος, -ου, ὁ</Lexical>
+		<Gloss>a house, home</Gloss>
+		<Frequency>114</Frequency>
+		<BBG>8</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>ὀλίγος</Lemma>
+		<Lexical>ὀλίγος, -η, -ον</Lexical>
+		<Gloss>little, few</Gloss>
+		<Frequency>52</Frequency>
+		<BBG>0</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>ὅλος</Lemma>
+		<Lexical>ὅλος, -η, -ον</Lexical>
+		<Gloss>whole, all</Gloss>
+		<Frequency>109</Frequency>
+		<BBG>19</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>ὄνομα</Lemma>
+		<Lexical>ὄνομα, -τος, τό</Lexical>
+		<Gloss>a name</Gloss>
+		<Frequency>234</Frequency>
+		<BBG>10</BBG>
+	</Card>
+	<Card>
+		<WordType>Conjunction</WordType>
+		<Lemma>ὅπου</Lemma>
+		<Lexical>ὅπου</Lexical>
+		<Gloss>where, whither</Gloss>
+		<Frequency>82</Frequency>
+		<BBG>16</BBG>
+	</Card>
+	<Card>
+		<WordType>Conjunction</WordType>
+		<Lemma>ὅπως</Lemma>
+		<Lexical>ὅπως</Lexical>
+		<Gloss>how, that, in order that,</Gloss>
+		<Frequency>53</Frequency>
+		<BBG>12</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>ὁράω</Lemma>
+		<Lexical>ὁράω</Lexical>
+		<Gloss>to see</Gloss>
+		<Frequency>455</Frequency>
+		<BBG>20</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>ὄρος</Lemma>
+		<Lexical>ὄρος, -ους, τό</Lexical>
+		<Gloss>a mountain</Gloss>
+		<Frequency>63</Frequency>
+		<BBG>24</BBG>
+	</Card>
+	<Card>
+		<WordType>Pronoun</WordType>
+		<Lemma>ὅς</Lemma>
+		<Lexical>ὅς, ἥ, ὅ</Lexical>
+		<Gloss>who, which</Gloss>
+		<Frequency>1435</Frequency>
+		<BBG>14</BBG>
+	</Card>
+	<Card>
+		<WordType>Pronoun</WordType>
+		<Lemma>ὅσος</Lemma>
+		<Lexical>ὅσος, -η, -ον</Lexical>
+		<Gloss>as great as, as many as</Gloss>
+		<Frequency>110</Frequency>
+		<BBG>12</BBG>
+	</Card>
+	<Card>
+		<WordType>Pronoun</WordType>
+		<Lemma>ὅστις</Lemma>
+		<Lexical>ὅστις, ἥτις, ὅτι</Lexical>
+		<Gloss>whoever, whichever, whatever</Gloss>
+		<Frequency>144</Frequency>
+		<BBG>18</BBG>
+	</Card>
+	<Card>
+		<WordType>Conjunction</WordType>
+		<Lemma>ὅταν</Lemma>
+		<Lexical>ὅταν</Lexical>
+		<Gloss>whenever</Gloss>
+		<Frequency>123</Frequency>
+		<BBG>17</BBG>
+	</Card>
+	<Card>
+		<WordType>Conjunction</WordType>
+		<Lemma>ὅτε</Lemma>
+		<Lexical>ὅτε</Lexical>
+		<Gloss>when</Gloss>
+		<Frequency>103</Frequency>
+		<BBG>14</BBG>
+	</Card>
+	<Card>
+		<WordType>Conjunction</WordType>
+		<Lemma>ὅτι</Lemma>
+		<Lexical>ὅτι</Lexical>
+		<Gloss>that, because, since</Gloss>
+		<Frequency>1296</Frequency>
+		<BBG>6</BBG>
+	</Card>
+	<Card>
+		<WordType>Adverb</WordType>
+		<Lemma>οὐ</Lemma>
+		<Lexical>οὐ</Lexical>
+		<Gloss>not, no</Gloss>
+		<Frequency>1623</Frequency>
+		<BBG>6</BBG>
+	</Card>
+	<Card>
+		<WordType>Conjunction</WordType>
+		<Lemma>οὐδέ</Lemma>
+		<Lexical>οὐδέ</Lexical>
+		<Gloss>and not, not even, neither, nor</Gloss>
+		<Frequency>143</Frequency>
+		<BBG>11</BBG>
+	</Card>
+	<Card>
+		<WordType>Pronoun</WordType>
+		<Lemma>οὐδείς</Lemma>
+		<Lexical>οὐδείς, οὐδεμία, οὐδέν</Lexical>
+		<Gloss>no one, none, nothing, no</Gloss>
+		<Frequency>234</Frequency>
+		<BBG>10</BBG>
+	</Card>
+	<Card>
+		<WordType>Conjunction</WordType>
+		<Lemma>οὖν</Lemma>
+		<Lexical>οὖν</Lexical>
+		<Gloss>then, accordingly</Gloss>
+		<Frequency>499</Frequency>
+		<BBG>12</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>οὐρανός</Lemma>
+		<Lexical>οὐρανός, -οῦ, ὁ</Lexical>
+		<Gloss>heaven</Gloss>
+		<Frequency>273</Frequency>
+		<BBG>7</BBG>
+	</Card>
+	<Card>
+		<WordType>Conjunction</WordType>
+		<Lemma>οὔτε</Lemma>
+		<Lexical>οὔτε</Lexical>
+		<Gloss>neither, nor</Gloss>
+		<Frequency>87</Frequency>
+		<BBG>22</BBG>
+	</Card>
+	<Card>
+		<WordType>Pronoun</WordType>
+		<Lemma>οὗτος</Lemma>
+		<Lexical>οὗτος, αὕτη, τοῦτο</Lexical>
+		<Gloss>this; he, she, it</Gloss>
+		<Frequency>1403</Frequency>
+		<BBG>7</BBG>
+	</Card>
+	<Card>
+		<WordType>Adverb</WordType>
+		<Lemma>οὕτω</Lemma>
+		<Lexical>οὕτω, οὕτως</Lexical>
+		<Gloss>thus</Gloss>
+		<Frequency>208</Frequency>
+		<BBG>14</BBG>
+	</Card>
+	<Card>
+		<WordType>Adverb</WordType>
+		<Lemma>οὐχί</Lemma>
+		<Lexical>οὐχί</Lexical>
+		<Gloss>not</Gloss>
+		<Frequency>54</Frequency>
+		<BBG>28</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>ὀφθαλμός</Lemma>
+		<Lexical>ὀφθαλμός, -οῦ, ὁ</Lexical>
+		<Gloss>an eye</Gloss>
+		<Frequency>100</Frequency>
+		<BBG>12</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>ὄχλος</Lemma>
+		<Lexical>ὄχλος, -ου, ὁ</Lexical>
+		<Gloss>a crowd, multitude</Gloss>
+		<Frequency>175</Frequency>
+		<BBG>8</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>παιδίον</Lemma>
+		<Lexical>παιδίον, -ου, τό</Lexical>
+		<Gloss>an infant, child</Gloss>
+		<Frequency>52</Frequency>
+		<BBG>28</BBG>
+	</Card>
+	<Card>
+		<WordType>Adverb</WordType>
+		<Lemma>πάλιν</Lemma>
+		<Lexical>πάλιν</Lexical>
+		<Gloss>again</Gloss>
+		<Frequency>141</Frequency>
+		<BBG>12</BBG>
+	</Card>
+	<Card>
+		<WordType>Preposition</WordType>
+		<Lemma>παρά</Lemma>
+		<Lexical>παρά</Lexical>
+		<Gloss>from (gen); beside, in the presence of (dat); alongside of (acc)</Gloss>
+		<Frequency>194</Frequency>
+		<BBG>8</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>παραβολή</Lemma>
+		<Lexical>παραβολή, -ῆς, ἡ</Lexical>
+		<Gloss>a parable</Gloss>
+		<Frequency>50</Frequency>
+		<BBG>8</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>παραδίδωμι</Lemma>
+		<Lexical>παραδίδωμι</Lexical>
+		<Gloss>to hand over, betray</Gloss>
+		<Frequency>119</Frequency>
+		<BBG>34</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>παρακαλέω</Lemma>
+		<Lexical>παρακαλέω</Lexical>
+		<Gloss>to beseech, urge, exhort, comfort</Gloss>
+		<Frequency>109</Frequency>
+		<BBG>27</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>πᾶς</Lemma>
+		<Lexical>πᾶς, πᾶσα, πᾶν</Lexical>
+		<Gloss>all, every, all things</Gloss>
+		<Frequency>1283</Frequency>
+		<BBG>10</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>πατήρ</Lemma>
+		<Lexical>πατήρ, πατρός, ὁ</Lexical>
+		<Gloss>father</Gloss>
+		<Frequency>413</Frequency>
+		<BBG>11</BBG>
+	</Card>
+	<Card>
+		<WordType>Proper Noun</WordType>
+		<Lemma>παῦλος</Lemma>
+		<Lexical>Παῦλος, -ου, ὁ</Lexical>
+		<Gloss>Paul</Gloss>
+		<Frequency>158</Frequency>
+		<BBG>4</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>πείθω</Lemma>
+		<Lexical>πείθω</Lexical>
+		<Gloss>to persuade</Gloss>
+		<Frequency>52</Frequency>
+		<BBG>27</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>πέμπω</Lemma>
+		<Lexical>πέμπω</Lexical>
+		<Gloss>to send</Gloss>
+		<Frequency>79</Frequency>
+		<BBG>29</BBG>
+	</Card>
+	<Card>
+		<WordType>Preposition</WordType>
+		<Lemma>περί</Lemma>
+		<Lexical>περί</Lexical>
+		<Gloss>concerning, about (gen); around (acc)</Gloss>
+		<Frequency>333</Frequency>
+		<BBG>10</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>περιπατέω</Lemma>
+		<Lexical>περιπατέω</Lexical>
+		<Gloss>to walk</Gloss>
+		<Frequency>95</Frequency>
+		<BBG>21</BBG>
+	</Card>
+	<Card>
+		<WordType>Proper Noun</WordType>
+		<Lemma>πέτρος</Lemma>
+		<Lexical>Πέτρος, -ου, ὁ</Lexical>
+		<Gloss>Peter</Gloss>
+		<Frequency>156</Frequency>
+		<BBG>4</BBG>
+	</Card>
+	<Card>
+		<WordType>Proper Noun</WordType>
+		<Lemma>πιλᾶτος</Lemma>
+		<Lexical>Πιλᾶτος, -ου, ὁ</Lexical>
+		<Gloss>Pilate</Gloss>
+		<Frequency>55</Frequency>
+		<BBG>4</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>πίνω</Lemma>
+		<Lexical>πίνω</Lexical>
+		<Gloss>to drink</Gloss>
+		<Frequency>73</Frequency>
+		<BBG>23</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>πίπτω</Lemma>
+		<Lexical>πίπτω</Lexical>
+		<Gloss>to fall</Gloss>
+		<Frequency>90</Frequency>
+		<BBG>34</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>πιστεύω</Lemma>
+		<Lexical>πιστεύω</Lexical>
+		<Gloss>to have faith (in), believe</Gloss>
+		<Frequency>249</Frequency>
+		<BBG>16</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>πίστις</Lemma>
+		<Lexical>πίστις, -εως, ἡ</Lexical>
+		<Gloss>faith, belief, trust</Gloss>
+		<Frequency>243</Frequency>
+		<BBG>11</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>πιστός</Lemma>
+		<Lexical>πιστός, -ή, -όν</Lexical>
+		<Gloss>faithful, believing</Gloss>
+		<Frequency>67</Frequency>
+		<BBG>9</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>πληρόω</Lemma>
+		<Lexical>πληρόω</Lexical>
+		<Gloss>to fill, fulfill</Gloss>
+		<Frequency>86</Frequency>
+		<BBG>17</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>πλοῖον</Lemma>
+		<Lexical>πλοῖον, -ου, τό</Lexical>
+		<Gloss>a boat</Gloss>
+		<Frequency>67</Frequency>
+		<BBG>14</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>πνεῦμα</Lemma>
+		<Lexical>πνεῦμα, -τος, τό</Lexical>
+		<Gloss>a spirit, the Spirit</Gloss>
+		<Frequency>381</Frequency>
+		<BBG>4</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>ποιέω</Lemma>
+		<Lexical>ποιέω</Lexical>
+		<Gloss>to do, make</Gloss>
+		<Frequency>572</Frequency>
+		<BBG>17</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>πόλις</Lemma>
+		<Lexical>πόλις, -εως, ἡ</Lexical>
+		<Gloss>a city</Gloss>
+		<Frequency>163</Frequency>
+		<BBG>13</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>πολύς</Lemma>
+		<Lexical>πολύς, πολλή, πολύ</Lexical>
+		<Gloss>much, many (plural)</Gloss>
+		<Frequency>418</Frequency>
+		<BBG>13</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>πονηρός</Lemma>
+		<Lexical>πονηρός, -ά, -όν</Lexical>
+		<Gloss>evil</Gloss>
+		<Frequency>88</Frequency>
+		<BBG>9</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>πορεύομαι</Lemma>
+		<Lexical>πορεύομαι</Lexical>
+		<Gloss>to go, proceed</Gloss>
+		<Frequency>153</Frequency>
+		<BBG>18</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>πούς</Lemma>
+		<Lexical>πούς, ποδός, ὁ</Lexical>
+		<Gloss>a foot</Gloss>
+		<Frequency>93</Frequency>
+		<BBG>12</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>πρεσβύτερος</Lemma>
+		<Lexical>πρεσβύτερος, -α, -ον</Lexical>
+		<Gloss>elder</Gloss>
+		<Frequency>66</Frequency>
+		<BBG>30</BBG>
+	</Card>
+	<Card>
+		<WordType>Preposition</WordType>
+		<Lemma>πρός</Lemma>
+		<Lexical>πρός</Lexical>
+		<Gloss>to, towards, with (acc)</Gloss>
+		<Frequency>700</Frequency>
+		<BBG>8</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>προσέρχομαι</Lemma>
+		<Lexical>προσέρχομαι</Lexical>
+		<Gloss>to come to</Gloss>
+		<Frequency>86</Frequency>
+		<BBG>22</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>προσεύχομαι</Lemma>
+		<Lexical>προσεύχομαι</Lexical>
+		<Gloss>to pray</Gloss>
+		<Frequency>85</Frequency>
+		<BBG>22</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>προσκυνέω</Lemma>
+		<Lexical>προσκυνέω</Lexical>
+		<Gloss>to worship</Gloss>
+		<Frequency>60</Frequency>
+		<BBG>19</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>πρόσωπον</Lemma>
+		<Lexical>πρόσωπον, -ου, τό</Lexical>
+		<Gloss>face, presence</Gloss>
+		<Frequency>78</Frequency>
+		<BBG>16</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>προφήτης</Lemma>
+		<Lexical>προφήτης, -ου, ὁ</Lexical>
+		<Gloss>a prophet</Gloss>
+		<Frequency>144</Frequency>
+		<BBG>4</BBG>
+	</Card>
+	<Card>
+		<WordType>Adverb</WordType>
+		<Lemma>πρῶτος</Lemma>
+		<Lexical>πρῶτος, -η, -ον</Lexical>
+		<Gloss>first</Gloss>
+		<Frequency>159</Frequency>
+		<BBG>9</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>πῦρ</Lemma>
+		<Lexical>πῦρ, -ός, τό</Lexical>
+		<Gloss>fire</Gloss>
+		<Frequency>71</Frequency>
+		<BBG>22</BBG>
+	</Card>
+	<Card>
+		<WordType>Adverb</WordType>
+		<Lemma>πῶς</Lemma>
+		<Lexical>πῶς</Lexical>
+		<Gloss>how?</Gloss>
+		<Frequency>103</Frequency>
+		<BBG>13</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>ῥῆμα</Lemma>
+		<Lexical>ῥῆμα, -τος, τό</Lexical>
+		<Gloss>a word</Gloss>
+		<Frequency>68</Frequency>
+		<BBG>14</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>σάββατον</Lemma>
+		<Lexical>σάββατον, -ου, τό</Lexical>
+		<Gloss>the Sabbath</Gloss>
+		<Frequency>68</Frequency>
+		<BBG>4</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>σάρξ</Lemma>
+		<Lexical>σάρξ, σαρκός, ἡ</Lexical>
+		<Gloss>flesh</Gloss>
+		<Frequency>147</Frequency>
+		<BBG>10</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>σημεῖον</Lemma>
+		<Lexical>σημεῖον, -ου, τό</Lexical>
+		<Gloss>a sign</Gloss>
+		<Frequency>77</Frequency>
+		<BBG>13</BBG>
+	</Card>
+	<Card>
+		<WordType>Proper Noun</WordType>
+		<Lemma>σίμων</Lemma>
+		<Lexical>Σίμων, -ωνος, ὁ</Lexical>
+		<Gloss>Simon</Gloss>
+		<Frequency>75</Frequency>
+		<BBG>4</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>σοφία</Lemma>
+		<Lexical>σοφία, -ας, ἡ</Lexical>
+		<Gloss>wisdom</Gloss>
+		<Frequency>51</Frequency>
+		<BBG>20</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>σπείρω</Lemma>
+		<Lexical>σπείρω</Lexical>
+		<Gloss>to sow</Gloss>
+		<Frequency>54</Frequency>
+		<BBG>28</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>στόμα</Lemma>
+		<Lexical>στόμα, -τος, τό</Lexical>
+		<Gloss>a mouth</Gloss>
+		<Frequency>82</Frequency>
+		<BBG>20</BBG>
+	</Card>
+	<Card>
+		<WordType>Pronoun</WordType>
+		<Lemma>σύ</Lemma>
+		<Lexical>σύ</Lexical>
+		<Gloss>you</Gloss>
+		<Frequency>2908</Frequency>
+		<BBG>7</BBG>
+	</Card>
+	<Card>
+		<WordType>Preposition</WordType>
+		<Lemma>σύν</Lemma>
+		<Lexical>σύν</Lexical>
+		<Gloss>with (dat)</Gloss>
+		<Frequency>128</Frequency>
+		<BBG>10</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>συνάγω</Lemma>
+		<Lexical>συνάγω</Lexical>
+		<Gloss>to gather together</Gloss>
+		<Frequency>59</Frequency>
+		<BBG>18</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>συναγωγή</Lemma>
+		<Lexical>συναγωγή, -ῆς, ἡ</Lexical>
+		<Gloss>a synagogue</Gloss>
+		<Frequency>56</Frequency>
+		<BBG>21</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>σῴζω</Lemma>
+		<Lexical>σῴζω</Lexical>
+		<Gloss>to save</Gloss>
+		<Frequency>108</Frequency>
+		<BBG>20</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>σῶμα</Lemma>
+		<Lexical>σῶμα, -τος, τό</Lexical>
+		<Gloss>a body</Gloss>
+		<Frequency>142</Frequency>
+		<BBG>10</BBG>
+	</Card>
+	<Card>
+		<WordType>Conjunction</WordType>
+		<Lemma>τέ</Lemma>
+		<Lexical>τέ</Lexical>
+		<Gloss>and (enclitic weak connective particle)</Gloss>
+		<Frequency>215</Frequency>
+		<BBG>14</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>τέκνον</Lemma>
+		<Lexical>τέκνον, -ου, τό</Lexical>
+		<Gloss>a child</Gloss>
+		<Frequency>101</Frequency>
+		<BBG>10</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>τηρέω</Lemma>
+		<Lexical>τηρέω</Lexical>
+		<Gloss>to keep</Gloss>
+		<Frequency>70</Frequency>
+		<BBG>17</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>τίθημι</Lemma>
+		<Lexical>τίθημι</Lexical>
+		<Gloss>to place</Gloss>
+		<Frequency>100</Frequency>
+		<BBG>35</BBG>
+	</Card>
+	<Card>
+		<WordType>Pronoun</WordType>
+		<Lemma>τίς</Lemma>
+		<Lexical>τίς, τί</Lexical>
+		<Gloss>who? which? what? why?</Gloss>
+		<Frequency>579</Frequency>
+		<BBG>10</BBG>
+	</Card>
+	<Card>
+		<WordType>Pronoun</WordType>
+		<Lemma>τὶς</Lemma>
+		<Lexical>τὶς, τὶ</Lexical>
+		<Gloss>someone, something, a certain one, a certain thing, anyone, anything </Gloss>
+		<Frequency>538</Frequency>
+		<BBG>10</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>τοιοῦτος</Lemma>
+		<Lexical>τοιοῦτος, -αύτη, -οῦτον</Lexical>
+		<Gloss>such</Gloss>
+		<Frequency>57</Frequency>
+		<BBG>31</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>τόπος</Lemma>
+		<Lexical>τόπος, -ου, ὁ</Lexical>
+		<Gloss>a place</Gloss>
+		<Frequency>94</Frequency>
+		<BBG>18</BBG>
+	</Card>
+	<Card>
+		<WordType>Adverb</WordType>
+		<Lemma>τότε</Lemma>
+		<Lexical>τότε</Lexical>
+		<Gloss>then, at that time</Gloss>
+		<Frequency>160</Frequency>
+		<BBG>16</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>τρεῖς</Lemma>
+		<Lexical>τρεῖς, -τρία</Lexical>
+		<Gloss>three</Gloss>
+		<Frequency>69</Frequency>
+		<BBG>27</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>τρίτος</Lemma>
+		<Lexical>τρίτος, -η, -ον</Lexical>
+		<Gloss>third</Gloss>
+		<Frequency>62</Frequency>
+		<BBG>9</BBG>
+	</Card>
+	<Card>
+		<WordType>Adjective</WordType>
+		<Lemma>τυφλός</Lemma>
+		<Lexical>τυφλός, -ή, -όν</Lexical>
+		<Gloss>blind</Gloss>
+		<Frequency>50</Frequency>
+		<BBG>16</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>ὕδωρ</Lemma>
+		<Lexical>ὕδωρ, ὕδατος, τό</Lexical>
+		<Gloss>water</Gloss>
+		<Frequency>78</Frequency>
+		<BBG>11</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>υἱός</Lemma>
+		<Lexical>υἱός, -οῦ, ὁ</Lexical>
+		<Gloss>a son</Gloss>
+		<Frequency>377</Frequency>
+		<BBG>7</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>ὑπάγω</Lemma>
+		<Lexical>ὑπάγω</Lexical>
+		<Gloss>to depart</Gloss>
+		<Frequency>79</Frequency>
+		<BBG>24</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>ὑπάρχω</Lemma>
+		<Lexical>ὑπάρχω</Lexical>
+		<Gloss>to be, exist</Gloss>
+		<Frequency>60</Frequency>
+		<BBG>34</BBG>
+	</Card>
+	<Card>
+		<WordType>Preposition</WordType>
+		<Lemma>ὑπέρ</Lemma>
+		<Lexical>ὑπέρ</Lexical>
+		<Gloss>in behalf of (gen); above (acc)</Gloss>
+		<Frequency>150</Frequency>
+		<BBG>12</BBG>
+	</Card>
+	<Card>
+		<WordType>Preposition</WordType>
+		<Lemma>ὑπό</Lemma>
+		<Lexical>ὑπό</Lexical>
+		<Gloss>by (gen); under (acc)</Gloss>
+		<Frequency>220</Frequency>
+		<BBG>8</BBG>
+	</Card>
+	<Card>
+		<WordType>Proper Noun</WordType>
+		<Lemma>φαρισαῖος</Lemma>
+		<Lexical>Φαρισαῖος, -ου, ὁ</Lexical>
+		<Gloss>Pharisee</Gloss>
+		<Frequency>98</Frequency>
+		<BBG>21</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>φέρω</Lemma>
+		<Lexical>φέρω</Lexical>
+		<Gloss>to carry, bear, bring, lead</Gloss>
+		<Frequency>66</Frequency>
+		<BBG>29</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>φημί</Lemma>
+		<Lexical>φημί</Lexical>
+		<Gloss>to say</Gloss>
+		<Frequency>152</Frequency>
+		<BBG>35</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>φοβέω</Lemma>
+		<Lexical>φοβέομαι</Lexical>
+		<Gloss>to fear</Gloss>
+		<Frequency>95</Frequency>
+		<BBG>24</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>φωνή</Lemma>
+		<Lexical>φωνή, -ῆς, ἡ</Lexical>
+		<Gloss>a sound, voice</Gloss>
+		<Frequency>139</Frequency>
+		<BBG>4</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>φῶς</Lemma>
+		<Lexical>φῶς, -φωτός, τό</Lexical>
+		<Gloss>light</Gloss>
+		<Frequency>73</Frequency>
+		<BBG>11</BBG>
+	</Card>
+	<Card>
+		<WordType>Verb</WordType>
+		<VerbStem>Present</VerbStem>
+		<Lemma>χαίρω</Lemma>
+		<Lexical>χαίρω</Lexical>
+		<Gloss>to rejoice</Gloss>
+		<Frequency>74</Frequency>
+		<BBG>24</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>χαρά</Lemma>
+		<Lexical>χαρά, -ᾶς, ἡ</Lexical>
+		<Gloss>joy, delight</Gloss>
+		<Frequency>59</Frequency>
+		<BBG>16</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>χάρις</Lemma>
+		<Lexical>χάρις, -ιτος, ἡ</Lexical>
+		<Gloss>grace</Gloss>
+		<Frequency>155</Frequency>
+		<BBG>11</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>χείρ</Lemma>
+		<Lexical>χείρ, χειρός, ἡ</Lexical>
+		<Gloss>a hand</Gloss>
+		<Frequency>177</Frequency>
+		<BBG>14</BBG>
+	</Card>
+	<Card>
+		<WordType>Proper Noun</WordType>
+		<Lemma>χριστός</Lemma>
+		<Lexical>Χριστός, -οῦ, ὁ</Lexical>
+		<Gloss>Christ, Messiah, Anointed One</Gloss>
+		<Frequency>529</Frequency>
+		<BBG>4</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>χρόνος</Lemma>
+		<Lexical>χρόνος, -ου, ὁ</Lexical>
+		<Gloss>time</Gloss>
+		<Frequency>54</Frequency>
+		<BBG>21</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>ψυχή</Lemma>
+		<Lexical>ψυχή, -ῆς, ἡ</Lexical>
+		<Gloss>soul, life, self</Gloss>
+		<Frequency>103</Frequency>
+		<BBG>14</BBG>
+	</Card>
+	<Card>
+		<WordType>Adverb</WordType>
+		<Lemma>ὧδε</Lemma>
+		<Lexical>ὧδε</Lexical>
+		<Gloss>here, hither</Gloss>
+		<Frequency>61</Frequency>
+		<BBG>11</BBG>
+	</Card>
+	<Card>
+		<WordType>Noun</WordType>
+		<Lemma>ὥρα</Lemma>
+		<Lexical>ὥρα, -ας, ἡ</Lexical>
+		<Gloss>an hour</Gloss>
+		<Frequency>106</Frequency>
+		<BBG>6</BBG>
+	</Card>
+	<Card>
+		<WordType>Conjunction</WordType>
+		<Lemma>ὡς</Lemma>
+		<Lexical>ὡς</Lexical>
+		<Gloss>as, that, like, how, about, now</Gloss>
+		<Frequency>504</Frequency>
+		<BBG>18</BBG>
+	</Card>
+	<Card>
+		<WordType>Conjunction</WordType>
+		<Lemma>ὥστε</Lemma>
+		<Lexical>ὥστε</Lexical>
+		<Gloss>so that</Gloss>
+		<Frequency>83</Frequency>
+		<BBG>7</BBG>
+	</Card>
+</CardList>

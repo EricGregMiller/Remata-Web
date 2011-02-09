@@ -1,0 +1,168 @@
+body 
+{
+  background-color:#6f7a9e; 
+  color:#ffffff; 
+  font-family: Arial, Helvetica, sans-serif; 
+  font-size: 12px;
+}
+
+#Title
+{
+  font: bold 30px serif;
+}
+
+#TitleProgramName
+{
+  color: Purple; 
+  font: italic bold 60px serif;
+}
+
+#MainTable
+{
+}
+
+#LeftColumn
+{
+  width: 350px;
+}
+
+#RightColumn
+{
+}
+
+.ShowFieldTable
+{
+  border: 0;
+  border-spacing: 0px;
+  padding: 0px;
+}
+
+#LemmaCardViewField
+{
+  width: 95%;
+  background-color: #800080; /* Purple */
+  border: 0;
+  font:30px Gentium;
+}
+
+#LexicalCardViewField
+{
+  width: 95%;
+  background-color: #400040;
+  border: 0;
+  font:25px Gentium;
+}
+
+#GlossCardViewField
+{
+  width: 95%;
+  background-color: DarkSlateBlue;
+  border: 0;
+  font:medium serif;
+}
+
+select
+{
+  background-color:#000060; 
+  color:#ffffff; 
+  font-family: Arial, Helvetica, sans-serif; 
+  font-size: 12px;
+}
+
+input
+{
+  background-color:#000060; 
+  color:#ffffff; 
+  font-family: Arial, Helvetica, sans-serif; 
+  font-size: 12px;
+}
+
+input[readonly]
+{
+  background-color: SlateGray; 
+}
+
+input[disabled]
+{
+  background-color: SlateGray; 
+}
+
+input[type="button"]
+{
+  background-color: #000060; 
+}
+
+input[type="button"][disabled]
+{
+  background-color: SlateGray; 
+  color: #B0B0B0; 
+}
+
+button
+{
+  background-color: #000060; 
+  color: white; 
+}
+
+button[disabled]
+{
+  background-color: SlateGray; 
+  color: #B0B0B0; 
+}
+
+input[type="file"]
+{
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  opacity: 100;
+  filter: alpha(opacity=1); 
+  z-index: 2;
+}
+
+div.FileInput
+{
+  position: relative;
+}
+
+div.FileInputFake
+{
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  z-index: 1;
+  opacity: 0;
+  filter: alpha(opacity=0.0); 
+}
+
+input.CardViewField
+{
+  background-color:#6f7a9e;
+  border: 0;
+}
+
+#HintCardViewField
+{
+  color: red;
+}
+
+#Copyright
+{
+  font: small serif;
+}
+
+table.PrintCardList
+{
+  border: medium single black;
+}
+
+#PrintTableCellFront
+{
+  font:medium Gentium;
+}
+
+#PrintTableCellBack
+{
+  font:medium serif;
+}
+
